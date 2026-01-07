@@ -1,0 +1,25 @@
+OmarMinimalIG : Validation Results
+=========================================
+
+err = 3, warn = 4, info = 3
+$--
+Generated $--. FHIR version $-- for omar.minimal.ig#$-- (canonical = https://omaremad101.github.io/omar-fhir-ig)
+ Build Errors : 1 / 4 / 0
+ D:\Studying\Master\publication\temp\ig-builds\omar.minimal.ig#0.1.0\fsh-generated\resources\ImplementationGuide-omar.minimal.ig : 1 / 0 / 2
+ D:\Studying\Master\publication\temp\ig-builds\omar.minimal.ig#0.1.0\fsh-generated\resources\Patient-ExamplePatient : 0 / 0 / 1
+ D:\Studying\Master\publication\temp\ig-builds\omar.minimal.ig#0.1.0\fsh-generated\resources\StructureDefinition-minimal-patient : 1 / 0 / 3
+</table>
+== n/a ==
+ERROR: ImplementationGuide.definition.parameter[23].value: Supressed messages file not found
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated\resources\ImplementationGuide-omar.minimal.ig.json ==
+INFORMATION: ImplementationGuide/omar.minimal.ig: ImplementationGuide.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: ImplementationGuide/omar.minimal.ig: ImplementationGuide.jurisdiction[0].coding[0].display: Wrong Display Name 'United States of America' for urn:iso:std:iso:3166#US. Valid display is 'United States of America (the)' (for the language(s) 'en-US')
+== fsh-generated\resources\Patient-ExamplePatient.json ==
+== fsh-generated\resources\StructureDefinition-minimal-patient.json ==
+INFORMATION: StructureDefinition/minimal-patient: StructureDefinition.jurisdiction[0]: Reference to draft CodeSystem urn:iso:std:iso:3166|20210120
+ERROR: StructureDefinition/minimal-patient: StructureDefinition.jurisdiction[0].coding[0].display: Wrong Display Name 'United States of America' for urn:iso:std:iso:3166#US. Valid display is 'United States of America (the)' (for the language(s) 'en-US')
+INFORMATION: StructureDefinition/minimal-patient: StructureDefinition.snapshot.element[4].binding.extension[0]: The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated

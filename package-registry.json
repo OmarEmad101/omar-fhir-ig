@@ -1,0 +1,18 @@
+{
+  "packages" : [
+    {
+      "path" : "/package-list.json",
+      "package-id" : "omar.minimal.ig",
+      "title" : "Omar Minimal FHIR IG v0.1.0",
+      "canonical" : "https://omaremad101.github.io/omar-fhir-ig",
+      "category" : "Clinical Data Knowledge",
+      "ci-build" : "https://omaremad101.github.io/omar-fhir-ig",
+      "version-count" : 1,
+      "latest" : {
+        "version" : "0.1.0",
+        "date" : "2026-01-07",
+        "path" : "https://omaremad101.github.io/omar-fhir-ig/0.1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+ig-build-zips/
+*.zip
+temp/
+publication/

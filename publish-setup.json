@@ -1,0 +1,19 @@
+{
+  "website": {
+    "url": "https://omaremad101.github.io/omar-fhir-ig",
+    "server": "apache",
+    "org": "Omar Emad",
+    "clone-xml-json": true
+  },
+  "feeds": {
+    "package": "package-feed.xml",
+    "publication": "publication-feed.xml"
+  },
+  "layout-rules": [
+    {
+      "npm": "omar.minimal.ig",
+      "canonical": "https://omaremad101.github.io/omar-fhir-ig",
+      "destination": "/"
+    }
+  ]
+}
