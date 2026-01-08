@@ -1,0 +1,23 @@
+[
+  {
+    "id" : "omar.minimal.ig",
+    "type" : "ImplementationGuide",
+    "url" : "https://omaremad101.github.io/omar-fhir-ig/ImplementationGuide/omar.minimal.ig",
+    "version" : "0.2.0",
+    "name" : "OmarMinimalIG"
+  },
+  {
+    "id" : "FavoriteColor",
+    "type" : "StructureDefinition",
+    "url" : "https://omaremad101.github.io/omar-fhir-ig/StructureDefinition/FavoriteColor",
+    "version" : "0.2.0",
+    "name" : "FavoriteColor"
+  },
+  {
+    "id" : "minimal-patient",
+    "type" : "StructureDefinition",
+    "url" : "https://omaremad101.github.io/omar-fhir-ig/StructureDefinition/minimal-patient",
+    "version" : "0.2.0",
+    "name" : "MinimalPatient"
+  }
+]

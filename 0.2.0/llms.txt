@@ -1,0 +1,25 @@
+# omar.minimal.ig#0.2.0: Omar Minimal FHIR Implementation Guide
+
+## Pages
+
+* [Home](index.md)
+* [Artifacts Summary](artifacts.md)
+* [Changes](changes.md)
+
+## Resources
+
+### Resource Profiles
+
+* [Minimal Patient Profile](StructureDefinition-minimal-patient.md)
+
+### Extensions
+
+* [FavoriteColor](StructureDefinition-FavoriteColor.md)
+
+### ImplementationGuides
+
+* [Omar Minimal FHIR Implementation Guide](index.md)
+
+### Examples
+
+* [ExamplePatient (Patient)](Patient-ExamplePatient.md)
