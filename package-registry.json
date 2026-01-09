@@ -7,11 +7,11 @@
       "canonical" : "https://omaremad101.github.io/omar-fhir-ig",
       "category" : "Clinical Data Knowledge",
       "ci-build" : "https://omaremad101.github.io/omar-fhir-ig",
-      "version-count" : 4,
+      "version-count" : 5,
       "latest" : {
-        "version" : "0.3.1",
+        "version" : "0.3.2",
         "date" : "2026-01-09",
-        "path" : "https://omaremad101.github.io/omar-fhir-ig/0.3.1"
+        "path" : "https://omaremad101.github.io/omar-fhir-ig/0.3.2"
       }
     }
   ]

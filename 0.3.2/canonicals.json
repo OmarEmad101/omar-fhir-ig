@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "omar.minimal.ig",
+    "type" : "ImplementationGuide",
+    "url" : "https://omaremad101.github.io/omar-fhir-ig/ImplementationGuide/omar.minimal.ig",
+    "version" : "0.3.2",
+    "name" : "OmarMinimalIG"
+  },
+  {
+    "id" : "device-observation",
+    "type" : "StructureDefinition",
+    "url" : "https://omaremad101.github.io/omar-fhir-ig/StructureDefinition/device-observation",
+    "version" : "0.3.2",
+    "name" : "DeviceObservation"
+  }
+]
