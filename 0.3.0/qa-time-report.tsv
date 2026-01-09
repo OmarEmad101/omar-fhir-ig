@@ -1,0 +1,12 @@
+Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+\fsh-generated\resources\ImplementationGuide-omar.minimal.ig.json	2030	-	0	0	0	0	0	0	8	80	0	0	0	0	0	0	0	1	0	0	174	146	0	0	0	1	0	3
+fsh-generated/resources/Observation-HeartRateExample.json	625	12	0	0	0	0	0	0	1	44	0	0	0	0	0	0	0	0	0	0	118	77	0	0	0	0	0	0
+fsh-generated/resources/StructureDefinition-device-observation.json	1397	11	0	79	0	0	1	1	0	55	0	0	0	0	0	0	0	1	0	0	514	4033	0	0	0	8	0	2
+\fsh-generated\includes\fsh-link-references.md	118	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\fsh-generated\includes\menu.xml	1173	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+\input\pagecontent\changes.md	218	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+\input\pagecontent\index.md	498	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+\input\pagecontent\scope.md	274	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\template\config	0	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\template\config\_config.yml	140	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\temp\pages\_includes\artifacts.xml	2069	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	0	0	0	0	0	0

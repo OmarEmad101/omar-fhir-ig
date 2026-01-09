@@ -1,0 +1,21 @@
+# omar.minimal.ig#0.3.0: Omar Minimal FHIR Implementation Guide
+
+## Pages
+
+* [Home](index.md)
+* [Artifacts Summary](artifacts.md)
+* [Changes](changes.md)
+
+## Resources
+
+### Resource Profiles
+
+* [Device Observation](StructureDefinition-device-observation.md)
+
+### ImplementationGuides
+
+* [Omar Minimal FHIR Implementation Guide](index.md)
+
+### Examples
+
+* [HeartRateExample (Observation)](Observation-HeartRateExample.md)
