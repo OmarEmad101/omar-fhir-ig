@@ -12,6 +12,17 @@
     <pubDate>Wed, 07 Jan 2026 02:30:00 +0100</pubDate>
 
     <item>
+      <title>omar.minimal.ig#0.3.1</title>
+      <description>Introduces meaningful clinical device observation profiles and examples</description>
+      <link>https://omaremad101.github.io/omar-fhir-ig/0.3.1/package.tgz</link>
+      <guid isPermaLink="true">https://omaremad101.github.io/omar-fhir-ig/0.3.1/package.tgz</guid>
+      <dc:creator>Omar Emad</dc:creator>
+      <fhir:version>4.0.1</fhir:version>
+      <fhir:kind>IG</fhir:kind>
+      <pubDate>Fri, 09 Jan 2026 01:48:10 +0100</pubDate>
+      <fhir:details>Publication run at 09/01/2026 by LAPTOP-8GSTISSM using Version 2.0.29 (Git# 826a7eb003d6). Built 2025-12-17T01:19:30.102Z (22 days old) source id Unknown (todo)</fhir:details>
+    </item>
+    <item>
       <title>omar.minimal.ig#0.3.0</title>
       <description>Introduces meaningful clinical device observation profiles and examples</description>
       <link>https://omaremad101.github.io/omar-fhir-ig/0.3.0/package.tgz</link>
